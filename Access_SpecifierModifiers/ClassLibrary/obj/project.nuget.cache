@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uB1yGuJw1K6gUU9Kw8PB31ZJBB3s1Cz0Ar38AmGLSjGle2GP7PwTPWnOFexSz1BssVd16zR0VD3mdDS6xzH6eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\personal\\source\\repos\\Access_SpecifierModifiers\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\personal\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\personal\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

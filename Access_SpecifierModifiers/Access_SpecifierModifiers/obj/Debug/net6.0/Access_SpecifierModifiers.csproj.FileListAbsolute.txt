@@ -1,0 +1,15 @@
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\bin\Debug\net6.0\Access_SpecifierModifiers.exe
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\bin\Debug\net6.0\Access_SpecifierModifiers.deps.json
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\bin\Debug\net6.0\Access_SpecifierModifiers.runtimeconfig.json
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\bin\Debug\net6.0\Access_SpecifierModifiers.dll
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\bin\Debug\net6.0\Access_SpecifierModifiers.pdb
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\Access_SpecifierModifiers.csproj.AssemblyReference.cache
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\Access_SpecifierModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\Access_SpecifierModifiers.AssemblyInfoInputs.cache
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\Access_SpecifierModifiers.AssemblyInfo.cs
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\Access_SpecifierModifiers.csproj.CoreCompileInputs.cache
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\Access_SpecifierModifiers.dll
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\refint\Access_SpecifierModifiers.dll
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\Access_SpecifierModifiers.pdb
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\Access_SpecifierModifiers.genruntimeconfig.cache
+C:\Users\personal\source\repos\Access_SpecifierModifiers\Access_SpecifierModifiers\obj\Debug\net6.0\ref\Access_SpecifierModifiers.dll
