@@ -1,0 +1,15 @@
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\bin\Debug\net6.0\AccessModifiersOrSpecifier.exe
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\bin\Debug\net6.0\AccessModifiersOrSpecifier.deps.json
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\bin\Debug\net6.0\AccessModifiersOrSpecifier.runtimeconfig.json
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\bin\Debug\net6.0\AccessModifiersOrSpecifier.dll
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\bin\Debug\net6.0\AccessModifiersOrSpecifier.pdb
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\AccessModifiersOrSpecifier.csproj.AssemblyReference.cache
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\AccessModifiersOrSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\AccessModifiersOrSpecifier.AssemblyInfoInputs.cache
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\AccessModifiersOrSpecifier.AssemblyInfo.cs
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\AccessModifiersOrSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\AccessModifiersOrSpecifier.dll
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\refint\AccessModifiersOrSpecifier.dll
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\AccessModifiersOrSpecifier.pdb
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\AccessModifiersOrSpecifier.genruntimeconfig.cache
+C:\Users\personal\source\repos\AccessModifiersOrSpecifier\AccessModifiersOrSpecifier\obj\Debug\net6.0\ref\AccessModifiersOrSpecifier.dll
